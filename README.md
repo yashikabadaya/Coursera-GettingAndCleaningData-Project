@@ -1,7 +1,7 @@
 # Coursera-GettingAndCleaningData-Project
  
  In order to run run_analysis.R file one has to first download the dataset from "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
- Then extract the data from zip in a new folder and in the run_analysis.R script set the pathdata variable to the path of the new folder.
+ Then extract the data from zip in a new folder and in the run_analysis.R script set the pathdata variable and the working directory to    the path of the new folder.
  The run_analysis.R will then perform following - 
  
  1)Merges the training and the test sets to create one data set.
